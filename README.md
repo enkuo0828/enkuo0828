@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [enkuo0828.github.io](enkuo0828.github.io)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django** **FastAPI** **SQLAlchemy** **Celery**
 
 - 📫 How to reach me **enkuo0828@hotmail.com**
 
